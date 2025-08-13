@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 
 🔭 I’m currently student in **SMK Raden Umar Said**
-😄 Pronouns: **He/Him**
-
 **Skill**
-
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
