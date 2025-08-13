@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-😄 Pronouns: **He/Him**
 🔭 I’m currently student in **SMK Raden Umar Said**
+😄 Pronouns: **He/Him**
 
 **Skill**
 
