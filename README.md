@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently student in SMK Raden Umar Said 
+
+😄 Pronouns: **He/Him**
+🔭 I’m currently student in **SMK Raden Umar Said**
+
+**Skill**
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
