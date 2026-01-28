@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 🔭 I’m currently student in **SMK Raden Umar Said**
 
-**Skill**  
+**Skill**
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28">
@@ -27,7 +26,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28">
+  <img src="  https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" height="28">
   
 </p>
 
+**Contact**
 
+<p>
+<div>
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
+ 
+</div>
+</p>
