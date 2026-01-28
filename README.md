@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently student in **SMK Raden Umar Said**
+<!-- 🔭 I’m currently student in **SMK Raden Umar Said** -->
 
 **Skill**
 
