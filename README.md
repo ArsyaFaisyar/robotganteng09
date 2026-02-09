@@ -20,7 +20,12 @@ Here are some ideas to get you started: -->
 🔭 I’m currently student in **SMK Raden Umar Said**
 
 **Skill**
+<div>
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma,laravel,flutter,express,react,vue,mysql&theme=light)](https://skillicons.dev)
+
+</div>
+
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28">
