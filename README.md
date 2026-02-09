@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 **Skill**
 <div>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,figma,laravel,flutter,express,react,vue,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,figma,laravel,flutter,express,react,vue,mysql,prisma&theme=light)](https://skillicons.dev)
 
 </div>
 
