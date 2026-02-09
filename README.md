@@ -45,3 +45,8 @@ Here are some ideas to get you started: -->
  
 </div>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/robotganteng09/robotganteng09/output/snake.svg" alt="Snake animation" />
+
+###
