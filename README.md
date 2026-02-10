@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 🔭 I’m currently student in **SMK Raden Umar Said**
 
-**Skill**
+#### Skill
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma,laravel,flutter,express,react,vue,mysql,prisma&theme=light)](https://skillicons.dev)
@@ -37,14 +37,18 @@ Here are some ideas to get you started: -->
   
 </p> -->
 
-**Contact**
+#### Social
 
-<p>
-<div>
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
- 
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/arsya-muhammad-faisyar-53286234a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/arsyafuracao/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
+  </a>
 </p>
+
 
 
 #### Stats
