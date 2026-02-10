@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 🔭 I’m currently student in **SMK Raden Umar Said**
 
-#### Skill
+#### Skills :
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,figma,laravel,flutter,express,react,vue,mysql,prisma&theme=light)](https://skillicons.dev)
@@ -37,7 +37,7 @@ Here are some ideas to get you started: -->
   
 </p> -->
 
-#### Social
+#### Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/arsya-muhammad-faisyar-53286234a" target="_blank">
@@ -51,7 +51,7 @@ Here are some ideas to get you started: -->
 
 
 
-#### Stats
+#### Stats :
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=robotganteng09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
