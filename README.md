@@ -56,4 +56,9 @@ Here are some ideas to get you started: -->
   <img src="https://streak-stats.demolab.com?user=robotganteng09&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+ #### Contribution Snake :
+<div align="center">
+  <img src="https://raw.githubusercontent.com/robotganteng09/robotganteng09/output/snake.svg" alt="snake animation" />
+</div>
+
 ###
